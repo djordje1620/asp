@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Rentaly.API</name>
+    </assembly>
+    <members>
+        <member name="M:Rentaly.API.Controllers.AuditLogController.Get(Rentaly.Application.DTOs.Search.AuditLogSearchDto,Rentaly.Application.UseCases.Queries.IGetAuditLogQuery)">
+            <summary>
+            Returns audit log.
+            </summary>
+            <param name="search"></param>
+            <param name="query"></param>
+            <returns></returns>
+            <response code="200">Ok.</response>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.AuthController.Post(Rentaly.API.Controllers.AuthDto)">
+            <summary>
+            Generates and returns a token from correct user credentials.
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+            <response code="200">Successfull authentication.</response>
+            <response code="403">Incorrect credentials.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.AuthController.Delete(Rentaly.API.Core.ITokenStorage)">
+            <summary>
+            Delete token.
+            </summary>
+            <returns></returns>
+            <response code="204">Successfull authentication.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BookingsController.Get(Rentaly.Application.DTOs.Bookings.BookingPagedSearchDto,Rentaly.Application.UseCases.Queries.Bookings.IGetBookingsQuery)">
+            <summary>
+            Returns bookings.
+            </summary>
+            <param name="search">Search parameters.</param>
+            <param name="query">Query for retrieving bookings.</param>
+            <returns>List of bookings.</returns>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BookingsController.Get(System.Int32,Rentaly.Application.UseCases.Queries.Bookings.IFindBookingQuery)">
+            <summary>
+            Returns a booking based on ID.
+            </summary>
+            <param name="id">Booking ID.</param>
+            <param name="query">Query for retrieving a booking.</param>
+            <returns>Booking details.</returns>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="404">Booking with the given ID doesn't exist.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BookingsController.Post(Rentaly.Application.DTOs.Bookings.CreateBookingDto,Rentaly.Application.UseCases.Commands.Bookings.ICreateBookingCommand)">
+            <summary>
+            Creates a new booking.
+            </summary>
+            <param name="dto">Data for creating a booking.</param>
+            <param name="command">Command for creating a booking.</param>
+            <returns>Created booking.</returns>
+            <response code="201">Successful creation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BookingsController.Put(System.Int32,Rentaly.Application.DTOs.Bookings.UpdateBookingDto,Rentaly.Application.UseCases.Commands.Bookings.IUpdateBookingCommand)">
+            <summary>
+            Updates a booking with the given ID.
+            </summary>
+            <param name="id">Booking ID.</param>
+            <param name="dto">Data for updating a booking.</param>
+            <param name="command">Command for updating a booking.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful update.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BookingsController.CancelBooking(System.Int32,Rentaly.Application.UseCases.Commands.Bookings.ICancelBookingCommand)">
+            <summary>
+            Cancels a booking with the given ID.
+            </summary>
+            <param name="id">Booking ID.</param>
+            <param name="command">Command for canceling a booking.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful cancellation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BookingsController.ConfirmBooking(System.Int32,Rentaly.Application.DTOs.Bookings.CompleteBookingDto,Rentaly.Application.UseCases.Commands.Bookings.IConfirmBookingCommand)">
+            <summary>
+            Confirms a booking with the given ID.
+            </summary>
+            <param name="id">Booking ID.</param>
+            <param name="command">Command for confirming a booking.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful confirmation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BookingsController.StartBooking(System.Int32,Rentaly.Application.UseCases.Commands.Bookings.IStartBookingCommand)">
+            <summary>
+            Starts a booking with the given ID.
+            </summary>
+            <param name="id">Booking ID.</param>
+            <param name="command">Command for starting a booking.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful start.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BookingsController.Delete(System.Int32,Rentaly.Application.UseCases.Commands.Bookings.IDeleteBookingCommand)">
+            <summary>
+            Deletes a booking with the given ID.
+            </summary>
+            <param name="id">Booking ID.</param>
+            <param name="command">Command for deleting a booking.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful deletion.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BrandsController.Get(Rentaly.Application.DTOs.Search.CarPagedSearchDto,Rentaly.Application.UseCases.Queries.Brands.IGetBrandsQuery)">
+            <summary>
+            Returns brands.
+            </summary>
+            <param name="search">Search parameters.</param>
+            <param name="query">Query for retrieving brands.</param>
+            <returns>List of brands.</returns>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BrandsController.Get(System.Int32,Rentaly.Application.UseCases.Queries.Brands.IFindBrandQuery)">
+            <summary>
+            Returns a brand based on ID.
+            </summary>
+            <param name="id">Brand ID.</param>
+            <param name="query">Query for retrieving a brand.</param>
+            <returns>Brand details.</returns>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="404">Brand with the given ID doesn't exist.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BrandsController.Post(Rentaly.Application.DTOs.Brands.CreateBrandDto,Rentaly.Application.UseCases.Commands.Brands.ICreateBrandCommand)">
+            <summary>
+            Creates a new brand.
+            </summary>
+            <param name="dto">Data for creating a brand.</param>
+            <param name="command">Command for creating a brand.</param>
+            <returns>Created brand.</returns>
+            <response code="201">Successful creation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.BrandsController.Delete(System.Int32,Rentaly.Application.UseCases.Commands.Brands.IDeleteBrandCommand)">
+            <summary>
+            Deletes a brand with the given ID.
+            </summary>
+            <param name="id">Brand ID.</param>
+            <param name="command">Command for deleting a brand.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful deletion.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.CarsController.Get(Rentaly.Application.DTOs.Search.CarPagedSearchDto,Rentaly.Application.UseCases.Queries.Cars.IGetCarsQuery)">
+            <summary>
+            Returns cars.
+            </summary>
+            <param name="search">Search parameters.</param>
+            <param name="query">Query for retrieving cars.</param>
+            <returns>List of cars.</returns>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.CarsController.Get(System.Int32,Rentaly.Application.UseCases.Queries.Cars.IFindCarQuery)">
+            <summary>
+            Returns a car based on ID.
+            </summary>
+            <param name="id">Car ID.</param>
+            <param name="query">Query for retrieving a car.</param>
+            <returns>Car details.</returns>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="404">Car with the given ID doesn't exist.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.CarsController.Post(Rentaly.API.DTOs.CreateCarWithImageDto,Rentaly.Application.UseCases.Commands.Cars.ICreateCarCommand)">
+            <summary>
+            Creates a new car.
+            </summary>
+            <param name="dto">Data for creating a car.</param>
+            <param name="command">Command for creating a car.</param>
+            <returns>Created car.</returns>
+            <response code="201">Successful creation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.CarsController.ChangePricePerDay(System.Int32,Rentaly.Application.DTOs.Cars.UpdateCarDto,Rentaly.Application.UseCases.Commands.Cars.IUpdateCarCommand)">
+            <summary>
+            Updates a car with the given ID.
+            </summary>
+            <param name="id">Car ID.</param>
+            <param name="dto">Data for updating a car.</param>
+            <param name="command">Command for updating a car.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful update.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.CarsController.Delete(System.Int32,Rentaly.Application.UseCases.Commands.Cars.IDeleteCarCommand)">
+            <summary>
+            Deletes a car with the given ID.
+            </summary>
+            <param name="id">Car ID.</param>
+            <param name="command">Command for deleting a car.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful deletion.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.InitialDataController.Post(Rentaly.Application.UseCases.Commands.ICreateInitialDataCommand)">
+            <summary>
+            Creates a initial data.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+            <response code="201">Successfull creation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ModelsController.Get(Rentaly.Application.DTOs.Search.ModelPagedSearch,Rentaly.Application.UseCases.Queries.Models.IGetModelsQuery)">
+            <summary>
+            Returns models.
+            </summary>
+            <param name="search">Search parameters.</param>
+            <param name="query">Query for retrieving models.</param>
+            <returns>List of models.</returns>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ModelsController.Get(System.Int32,Rentaly.Application.UseCases.Queries.Models.IFindModelQuery)">
+            <summary>
+            Returns a model based on ID.
+            </summary>
+            <param name="id">Model ID.</param>
+            <param name="query">Query for retrieving a model.</param>
+            <returns>Model details.</returns>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="404">Model with the given ID doesn't exist.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ModelsController.Post(Rentaly.Application.DTOs.Models.CreateModelDto,Rentaly.Application.UseCases.Commands.Models.ICreateModelCommand)">
+            <summary>
+            Creates a new model.
+            </summary>
+            <param name="dto">Data for creating a model.</param>
+            <param name="command">Command for creating a model.</param>
+            <returns>Created model.</returns>
+            <response code="201">Successful creation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ModelsController.Delete(System.Int32,Rentaly.Application.UseCases.Commands.Models.IDeleteModelCommand)">
+            <summary>
+            Deletes a model with the given ID.
+            </summary>
+            <param name="id">Model ID.</param>
+            <param name="command">Command for deleting a model.</param>
+            <returns>No content.</returns>
+            <response code="204">Successful deletion.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ReviewsController.Post(Rentaly.Application.DTOs.CreateReviewDto,Rentaly.Application.UseCases.Commands.Cars.ICreateCarReviewCommand)">
+            <summary>
+            Creates a new review.
+            </summary>
+            <param name="dto">Data for creating a review.</param>
+            <param name="command">Command for creating a review.</param>
+            <returns>Created review.</returns>
+            <response code="201">Successful creation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ServicesController.Get(Rentaly.Application.DTOs.Search.ServicePagedSearchDto,Rentaly.Application.UseCases.Queries.Services.IGetServicesQuery)">
+            <summary>
+            Retrieves a list of services.
+            </summary>
+            <param name="search">Search criteria.</param>
+            <param name="query">Query for retrieving services.</param>
+            <returns>List of services.</returns>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ServicesController.Get(System.Int32,Rentaly.Application.UseCases.Queries.Services.IFindServiceQuery)">
+            <summary>
+            Retrieves a service by ID.
+            </summary>
+            <param name="id">ID of the service.</param>
+            <param name="query">Query for retrieving service by ID.</param>
+            <returns>Service with the specified ID.</returns>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="404">Service with the given ID doesn't exist.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ServicesController.Post(Rentaly.Application.DTOs.Services.CreateServiceDto,Rentaly.Application.UseCases.Commands.Services.ICreateServiceCommand)">
+            <summary>
+            Creates a new service.
+            </summary>
+            <param name="dto">Data for creating a service.</param>
+            <param name="command">Command for creating a service.</param>
+            <returns>Created service.</returns>
+            <response code="201">Successful creation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.ServicesController.Delete(System.Int32,Rentaly.Application.UseCases.Commands.Services.IDeleteServiceCommand)">
+            <summary>
+            Deletes a service by ID.
+            </summary>
+            <param name="id">ID of the service to delete.</param>
+            <param name="command">Command for deleting the service.</param>
+            <returns>No content if successful.</returns>
+            <response code="204">Successful deletion.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.UsersController.Get(Rentaly.Application.UseCases.Queries.Users.IGetUsersQuery,Rentaly.Application.DTOs.Search.UserPagedSearchDto)">
+            <summary>
+            Retrieves profile information of all users.
+            </summary>
+            <param name="query">Query for retrieving profile information of all users.</param>
+            <returns>List of profile information.</returns>
+            <response code="204">Successful retrieval.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.UsersController.GetProfileInfo(Rentaly.Application.UseCases.Queries.Users.IGetProfileInfoQuery,Rentaly.Application.IApplicationActor)">
+            <summary>
+            Retrieves profile information for the current user.
+            </summary>
+            <param name="query">Query for retrieving profile information.</param>
+            <returns>Profile information.</returns>
+            <response code="204">Successful retrieval.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.UsersController.GetBookings(Rentaly.Application.DTOs.Bookings.BookingPagedSearchDto,Rentaly.Application.UseCases.Queries.Bookings.IGetUserBookingQuery)">
+            <summary>
+            Retrieves bookings for the current user.
+            </summary>
+            <param name="dto">Search criteria for retrieving bookings.</param>
+            <param name="query">Query for retrieving user bookings.</param>
+            <returns>User bookings.</returns>
+            <response code="204">Successful retrieval.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.UsersController.Post(Rentaly.Application.DTOs.Users.CreateUserDto,Rentaly.Application.UseCases.Commands.Users.ICreateUserCommand)">
+            <summary>
+            Creates a new user.
+            </summary>
+            <param name="dto">Data for creating a user.</param>
+            <param name="command">Command for creating a user.</param>
+            <returns>Created user.</returns>
+            <response code="201">Successful creation.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.UsersController.Put(System.Int32,Rentaly.Application.DTOs.Users.UpdateUserDto,Rentaly.Application.UseCases.Commands.Users.IUpdateUserCommand)">
+            <summary>
+            Updates a user with the given ID.
+            </summary>
+            <param name="id">ID of the user.</param>
+            <param name="dto">Data for updating the user.</param>
+            <param name="command">Command for updating the user.</param>
+            <returns>No content if successful.</returns>
+            <response code="204">Successful update.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="422">Data sent is invalid.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+        <member name="M:Rentaly.API.Controllers.UsersController.Delete(System.Int32,Rentaly.Application.UseCases.Commands.Users.IDeleteUserCommand)">
+            <summary>
+            Deletes a user by ID.
+            </summary>
+            <param name="id">ID of the user to delete.</param>
+            <param name="command">Command for deleting the user.</param>
+            <returns>No content if successful.</returns>
+            <response code="204">Successful deletion.</response>
+            <response code="401">Unauthorized access.</response>
+            <response code="403">Forbidden.</response>
+            <response code="500">Internal server error.</response>
+        </member>
+    </members>
+</doc>

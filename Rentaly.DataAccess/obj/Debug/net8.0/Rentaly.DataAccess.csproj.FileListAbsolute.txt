@@ -1,0 +1,119 @@
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.deps.json
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.runtimeconfig.json
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfo.cs
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly..E835DB5C.Up2Date
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\refint\Rentaly.DataAccess.dll
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.genruntimeconfig.cache
+C:\Users\Matke\Desktop\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\ref\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.deps.json
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.runtimeconfig.json
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly..E835DB5C.Up2Date
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\refint\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.genruntimeconfig.cache
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\ref\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.deps.json
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.runtimeconfig.json
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly..E835DB5C.Up2Date
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\refint\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.genruntimeconfig.cache
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\ref\Rentaly.DataAccess.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.deps.json
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.runtimeconfig.json
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.AssemblyReference.cache
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfoInputs.cache
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfo.cs
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly..E835DB5C.Up2Date
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\refint\Rentaly.DataAccess.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.genruntimeconfig.cache
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\ref\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.deps.json
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.runtimeconfig.json
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly..E835DB5C.Up2Date
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\refint\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.genruntimeconfig.cache
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\ref\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.deps.json
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.runtimeconfig.json
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly..E835DB5C.Up2Date
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\refint\Rentaly.DataAccess.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.genruntimeconfig.cache
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\ref\Rentaly.DataAccess.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.deps.json
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.runtimeconfig.json
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.AssemblyReference.cache
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfoInputs.cache
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.AssemblyInfo.cs
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly..E835DB5C.Up2Date
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\refint\Rentaly.DataAccess.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.pdb
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\Rentaly.DataAccess.genruntimeconfig.cache
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.DataAccess\obj\Debug\net8.0\ref\Rentaly.DataAccess.dll

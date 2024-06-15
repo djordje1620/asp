@@ -1,0 +1,99 @@
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\source\repos\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\Matke\Desktop\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\ProjektiVezba\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\djole\OneDrive\Radna površina\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\ggstu\Desktop\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.deps.json
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\bin\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfoInputs.cache
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.AssemblyInfo.cs
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\refint\Rentaly.Domain.dll
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\Rentaly.Domain.pdb
+C:\Users\djole\OneDrive\Radna površina\Izmenjeno\Izmenjeno\RentalyNew\RentalyNew\Rentaly\Rentaly\Rentaly.Domain\obj\Debug\net8.0\ref\Rentaly.Domain.dll

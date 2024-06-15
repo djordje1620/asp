@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "TjIEQ7nT35DS045SWv3A/xiR6VViIijSc5j1kHml0nw=",
+  "Source": "Rentaly.API",
+  "BasePath": "_content/Rentaly.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Rentaly.API\\wwwroot",
+      "Source": "Rentaly.API",
+      "ContentRoot": "C:\\Users\\djole\\OneDrive\\Radna površina\\Izmenjeno\\Izmenjeno\\RentalyNew\\RentalyNew\\Rentaly\\Rentaly\\Rentaly.API\\wwwroot\\",
+      "BasePath": "_content/Rentaly.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rentaly.Domain/1.0.0": {
+        "runtime": {
+          "Rentaly.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rentaly.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
