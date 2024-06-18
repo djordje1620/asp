@@ -9,6 +9,7 @@ using Rentaly.Implementation;
 namespace Rentaly.API.Controllers;
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class AuditLogController(UseCaseHandler useCaseHandler) : ControllerBase
 {
     private readonly UseCaseHandler _useCaseHandler = useCaseHandler;
