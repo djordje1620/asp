@@ -49,6 +49,7 @@ public class UsersController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="422">Data sent is invalid.</response>
     /// <response code="500">Internal server error.</response>
     [HttpGet("Profile")]
+    [Authorize]
     public IActionResult GetProfileInfo([FromServices] IGetProfileInfoQuery query, IApplicationActor user)
     {
         var x = user;
@@ -104,6 +105,7 @@ public class UsersController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="422">Data sent is invalid.</response>
     /// <response code="500">Internal server error.</response>
     [HttpPut("{id}")]
+    [Authorize]
     public IActionResult Put(int id,
                              [FromBody] UpdateUserDto dto,
                              [FromServices] IUpdateUserCommand command)
@@ -124,6 +126,7 @@ public class UsersController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="403">Forbidden.</response>
     /// <response code="500">Internal server error.</response>
     [HttpDelete("{id}")]
+    [Authorize]
     public IActionResult Delete(int id, [FromServices] IDeleteUserCommand command)
     {
 
