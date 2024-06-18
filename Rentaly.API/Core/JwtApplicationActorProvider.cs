@@ -33,12 +33,13 @@ public class JwtApplicationActorProvider : IApplicationActorProvider
 
         var actor = new Actor
         {
-            Email = claims.First(x => x.Type == "Username").Value,
+            Email = claims.First(x => x.Type == "Email").Value,
+            RoleName = claims.First(x => x.Type == "Role").Value,
             Username = claims.First(x => x.Type == "Username").Value,
             FirstName = claims.First(x => x.Type == "FirstName").Value,
             LastName = claims.First(x => x.Type == "LastName").Value,
-            Id = int.Parse(claims.First(x => x.Type == "Id").Value),
-            AllowedUseCases = JsonConvert.DeserializeObject<List<int>>(claims.First(x => x.Type == "UseCaseIds").Value)
+            Id = int.Parse(claims.First(x => x.Type == "UserId").Value),
+            AllowedUseCases = JsonConvert.DeserializeObject<List<int>>(claims.First(x => x.Type == "UseCases").Value)
         };
 
         return actor;
