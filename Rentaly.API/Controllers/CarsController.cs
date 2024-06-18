@@ -59,7 +59,6 @@ public class CarsController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="422">Data sent is invalid.</response>
     /// <response code="500">Internal server error.</response>
     [HttpPost]
-    [Authorize]
     public IActionResult Post([FromForm] CreateCarWithImageDto dto,
                      [FromServices] ICreateCarCommand command)
     {
@@ -101,7 +100,6 @@ public class CarsController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="422">Data sent is invalid.</response>
     /// <response code="500">Internal server error.</response>
     [HttpPatch("{id}/Price")]
-    [Authorize]
     public IActionResult ChangePricePerDay(int id,
                              [FromBody] UpdateCarDto dto,
                              [FromServices] IUpdateCarCommand command)
@@ -122,7 +120,6 @@ public class CarsController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="403">Forbidden.</response>
     /// <response code="500">Internal server error.</response>
     [HttpDelete("{id}")]
-    [Authorize]
     public IActionResult Delete(int id, [FromServices] IDeleteCarCommand command)
     {
 
