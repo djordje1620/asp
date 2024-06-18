@@ -11,6 +11,7 @@ using Rentaly.Implementation;
 namespace Rentaly.API.Controllers;
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class ServicesController(UseCaseHandler useCaseHandler) : ControllerBase
 {
     private readonly UseCaseHandler _useCaseHandler = useCaseHandler;
