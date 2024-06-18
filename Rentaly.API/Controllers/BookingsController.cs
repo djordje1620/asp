@@ -13,6 +13,7 @@ using Rentaly.Implementation;
 namespace Rentaly.API.Controllers;
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class BookingsController(UseCaseHandler useCaseHandler, IApplicationActor user) : ControllerBase
 {
     private readonly IApplicationActor _user = user;
