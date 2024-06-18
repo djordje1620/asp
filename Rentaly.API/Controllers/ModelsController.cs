@@ -61,6 +61,7 @@ namespace Rentaly.API.Controllers
         /// <response code="422">Data sent is invalid.</response>
         /// <response code="500">Internal server error.</response>
         [HttpPost]
+        [Authorize]
         public IActionResult Post([FromBody] CreateModelDto dto,
                          [FromServices] ICreateModelCommand command)
         {
@@ -79,6 +80,7 @@ namespace Rentaly.API.Controllers
         /// <response code="403">Forbidden.</response>
         /// <response code="500">Internal server error.</response>
         [HttpDelete("{id}")]
+        [Authorize]
         public IActionResult Delete(int id, [FromServices] IDeleteModelCommand command)
         {
             
