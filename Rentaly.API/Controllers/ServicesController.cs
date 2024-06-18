@@ -11,7 +11,6 @@ using Rentaly.Implementation;
 namespace Rentaly.API.Controllers;
 [Route("api/[controller]")]
 [ApiController]
-[Authorize]
 public class ServicesController(UseCaseHandler useCaseHandler) : ControllerBase
 {
     private readonly UseCaseHandler _useCaseHandler = useCaseHandler;
@@ -25,7 +24,6 @@ public class ServicesController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="403">Forbidden.</response>
     /// <response code="500">Internal server error.</response>
     [HttpGet]
-    [Authorize]
     public IActionResult Get([FromQuery] ServicePagedSearchDto search,
                             [FromServices] IGetServicesQuery query)
     {
@@ -43,7 +41,6 @@ public class ServicesController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="404">Service with the given ID doesn't exist.</response>
     /// <response code="500">Internal server error.</response>
     [HttpGet("{id}")]
-    [Authorize]
     public IActionResult Get(int id, [FromServices] IFindServiceQuery query)
     {
         return Ok(_useCaseHandler.HandleQuery(query, id));
@@ -61,7 +58,6 @@ public class ServicesController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="422">Data sent is invalid.</response>
     /// <response code="500">Internal server error.</response>
     [HttpPost]
-    [AllowAnonymous]
     public IActionResult Post([FromBody] CreateServiceDto dto,
                      [FromServices] ICreateServiceCommand command)
     {
@@ -80,7 +76,6 @@ public class ServicesController(UseCaseHandler useCaseHandler) : ControllerBase
     /// <response code="403">Forbidden.</response>
     /// <response code="500">Internal server error.</response>
     [HttpDelete("{id}")]
-    [AllowAnonymous]
     public IActionResult Delete(int id, [FromServices] IDeleteServiceCommand command)
     {
 
