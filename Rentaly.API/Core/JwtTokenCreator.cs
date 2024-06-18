@@ -57,8 +57,8 @@ public class JwtTokenCreator
 
         var claims = new List<Claim> 
             {
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
-                new Claim(JwtRegisteredClaimNames.Iss, _settings.Issuer),
+                new Claim(JwtRegisteredClaimNames.Jti, tokenId, ClaimValueTypes.String),
+                new Claim(JwtRegisteredClaimNames.Iss, _settings.Issuer, ClaimValueTypes.String),
                 new Claim(JwtRegisteredClaimNames.Iat, DateTimeOffset.UtcNow.ToUnixTimeSeconds().ToString(), ClaimValueTypes.Integer64, _settings.Issuer),
                 new Claim("UserId", user.Id.ToString(), ClaimValueTypes.String, _settings.Issuer),
                 new Claim("UseCases", JsonConvert.SerializeObject(user.UseCasesIds)),
